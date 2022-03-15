@@ -1,0 +1,21 @@
+{
+  "[dart]": {
+    "editor.formatOnSave": true,
+
+    "editor.rulers": [200],
+
+    "editor.selectionHighlight": false,
+
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+
+    "editor.suggestSelection": "first",
+
+    "editor.tabCompletion": "onlySnippets",
+
+    "editor.wordBasedSuggestions": false
+  },
+
+  "dart.lineLength": 220,
+  "cSpell.words": ["datetime", "formfield", "formkey", "LTRB", "unfocus"],
+  "java.configuration.updateBuildConfiguration": "automatic"
+}

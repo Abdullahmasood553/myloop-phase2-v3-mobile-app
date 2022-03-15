@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193039065719",
+    "project_id": "loop-hr-f1116",
+    "storage_bucket": "loop-hr-f1116.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193039065719:android:cbc0ca4cfb9e7b6f4f5c72",
+        "android_client_info": {
+          "package_name": "ai.octans.loophr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193039065719-0grbm5m690pghjjdqklouh9n232u4nhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjuFzgXRfZEkOXY3OW2T4N42doiNRqjz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193039065719-0grbm5m690pghjjdqklouh9n232u4nhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
